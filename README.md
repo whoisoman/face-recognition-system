@@ -4,10 +4,10 @@ A simple Face Recognition System built using OpenCV (LBPH algorithm).
 
 It allows you to:
 
-Collect face datasets from your webcam
+ Collect face datasets from your webcam
 
-Train the model on your datasets
+ Train the model on your datasets
 
-Recognize faces in real-time with green box (recognized) and red box (unknown)
+ Recognize faces in real-time with green box (recognized) and red box (unknown)
 
-Play a beep sound when an unknown face is detected
+ Play a beep sound when an unknown face is detected
