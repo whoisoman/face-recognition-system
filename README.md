@@ -1,6 +1,7 @@
 # Face Recognition System
 
 A simple Face Recognition System built using OpenCV (LBPH algorithm).
+
 It allows you to:
 
 Collect face datasets from your webcam
