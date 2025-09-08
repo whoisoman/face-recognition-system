@@ -11,3 +11,14 @@ It allows you to:
  Recognize faces in real-time with green box (recognized) and red box (unknown)
 
  Play a beep sound when an unknown face is detected
+
+# Project Directory Structure
+
+├── datasets/
+├── datacollect.py
+├── haarcascade_frontalface_default.xml
+├── training.py
+├── testmodel.py
+├── Trainer.yml
+├── requirements.txt           
+└── .gitignore
